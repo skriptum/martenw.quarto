@@ -535,7 +535,7 @@ details[open] > summary::before {
 .title-block {
   background-color: $primary-color-shade;
   font-size: 20px;
-  border-radius: 5px;
+  border-radius: 3px;
 
   // rule when title-block and text-block in same div
   + .text-block {

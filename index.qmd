@@ -52,16 +52,15 @@ I'm a Master's student of Economics at Université Panthéon-Sorbonne in Paris.
 
 ::: {.g-col-sm-6 .g-col-12 .title-block .text-block}
 
-Topics im interested in: 
+Topics I'm interested in: 
 
 - (wealth) inequality
-- development economics 
+- development econ
 - the history of economic thought
 
 \
 
-My focus lies at the intersection of economics and politics, using quantitative
-methods in R and Python to answer interesting questions (often with a lot of data)
+More generally, my focus is on interesting questions at the intersection between economics and politics, which I like to answer with quantitative methods in R and Python (often involving large amounts of data)
 
 \
 
