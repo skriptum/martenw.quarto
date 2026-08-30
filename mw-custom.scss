@@ -116,7 +116,7 @@ $table-border-color: $highlight-color;
   font-weight: 400;
   margin: 0vw 5vw 0vw 5vw;
   border-bottom: 1px solid $dark;
-  min-height: 80px;
+  min-height: 60px;
   .navbar-title {
     font-family: $font-family-headings;
     font-weight: 800;
@@ -130,9 +130,9 @@ $table-border-color: $highlight-color;
     // position in middle always
     position: absolute;
     left: 50%;
-    margin-left: -30px !important;  /* 50% of your logo width */
+    margin-left: -20px !important;  /* 50% of your logo width */
     .navbar-logo {
-      max-height: 60px;
+      max-height: 40px;
     }
   }
 }
