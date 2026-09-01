@@ -39,11 +39,13 @@ format:
 
 ::: {.g-col-sm-6 .g-col-12 .title-block}
 
-![](images/window.webp){width=100% fig-alt="Abstract painting of a young man"}
+![](images/window.webp){width=100% fig-alt="edited photo"}
 
 ::: {.img-text}
 
-I'm a Master's student of Economics at Université Panthéon-Sorbonne in Paris. 
+<p style="font-size:0.6em; color:#666; margin-top:0.5em;">
+  ‡ photo and website are, by the way, inspired by the color scheme of the ever-elegant Financial Times
+</p>
 
 :::
 
@@ -52,25 +54,18 @@ I'm a Master's student of Economics at Université Panthéon-Sorbonne in Paris.
 
 ::: {.g-col-sm-6 .g-col-12 .title-block .text-block}
 
+I'm a Master's student of Economics at Université [***Panthéon-Sorbonne***](https://economie.pantheonsorbonne.fr/) in Paris.
+
+\
+
 Topics I'm interested in: 
 
 - (wealth) inequality
 - development econ
 - the history of economic thought
 
-\
+I've contributed to policy work at the [***United Nations***](https://policy.desa.un.org/) and [***IWH***](https://www.iwh-halle.de/en/about-the-iwh/research-centres/centre-for-evidence-based-policy-advice), and completed my undergrad in [***Halle***](https://www.youtube.com/watch?v=w6sLH3PJNLA).
 
-More generally, my focus is on interesting questions at the intersection between economics and politics, which I like to answer with quantitative methods in R and Python (often involving large amounts of data)
-
-\
-
-→  see some of my [***Projects***](projects/index.qmd)
-
-\
-
-<p style="font-size:0.6em; color:#666; margin-top:0.5em;">
-  ‡ btw, the style of this site is a little inspired by the elegance of the Financial Times — minus the stock tickers 
-</p>
 
 :::
 
@@ -83,7 +78,7 @@ More generally, my focus is on interesting questions at the intersection between
 <!-- Projects -->
 :::{.content-block}
 
-## [Projects](projects/index.qmd)
+## Some of my projects [***->***](projects/index.qmd)
 
 :::{#projects}
 :::

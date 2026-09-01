@@ -10,15 +10,14 @@ toc: false
 ::: {.g-col-12 .g-col-lg-6}
 
 
-***`I`m quite interested*** in the different aspects of political economy and economic history. This was sparked by my activity with Rethinking Economics, a global network of students who want to change the way economics is taught and practiced. On this website I collect various projects and ideas, adorned with a bunch of  Vermeer paintings (like the one on this page: ["The Geographer"](https://en.wikipedia.org/wiki/The_Geographer) )
+***`I`m quite interested*** in different aspects of political economy and economic history, particularly regarding economic inequalities. 
 
-### My ideological inspiration
+I first got in contact with economics through the [works](https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century) of Thomas Piketty (not very original, I admit), but was quite quickly disappointed with the way it was taught at my university. Subsequently, I joined [Rethinking Economics](https://en.wikipedia.org/wiki/Rethinking_Economics), which played a significant role in shaping my economic understanding. 
 
-and their respective newsletters:
+After a stop at the [UN in NYC](https://policy.desa.un.org/) and at  [some](https://en.wikipedia.org/wiki/Halle_Institute_for_Economic_Research) [research](https://iw.wiwi.uni-halle.de/?lang=en) [institutes](https://en.wikipedia.org/wiki/Leibniz_Institute_of_Agricultural_Development_in_Transition_Economies) in Germany, I am now studying [Economics with a focus on Development](https://psme.pantheonsorbonne.fr/) at Panthéon-Sorbonne in Paris.
 
-- ***Thomas Piketty***: [LeMonde](https://www.ft.com/alphaville)
-- ***Adam Tooze***: [Chartbook](https://adamtooze.substack.com/)
-- ***Branko Milanovic***: [Global Inequality and More 3.0](https://branko2f7.substack.com/)
+On this website I collect various projects and ideas, adorned with a bunch of  Vermeer paintings (like the one on this page: [The Geographer](https://en.wikipedia.org/wiki/The_Geographer) )
+
 
 
 :::
